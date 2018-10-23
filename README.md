@@ -34,7 +34,7 @@ Fourth, "reports" render based upon multiple documents.
 - [X] Create an example document
 - [X] Create an example template
 - [X] Create an example report
-- [ ] Documentation
+- [X] Documentation
 
 ### Version 0.1
 
