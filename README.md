@@ -28,6 +28,14 @@ Fourth, "reports" render based upon multiple documents.
 
 ## Roadmap
 
+### Version 0.0
+
+- [ ] Create an example precedent
+- [ ] Create an example document
+- [ ] Create an example template
+- [ ] Create an example report
+- [ ] Documentation
+
 ### Version 0.1
 
 - [ ] Precedent module
