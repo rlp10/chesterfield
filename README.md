@@ -4,7 +4,7 @@ Chesterfield is document and management information software written in Racket.
 
 ## Installation
 
-Beware. Nothing works yet. This library may set your hair on fire or kill your
+Beware. Nothing works yet. This software may set your hair on fire or kill your
 cat. Don't install it.
 
 Unless you want to help with development. In that case, your contribution is
