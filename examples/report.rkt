@@ -2,6 +2,8 @@
 
 (require racket/string)
 
+(provide render)
+
 (define (render docs)
   (string-join
     (map

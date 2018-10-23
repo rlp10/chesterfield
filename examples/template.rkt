@@ -1,5 +1,7 @@
 #lang racket/base
 
+(provide render)
+
 (define (render doc)
   (format "The contents of the document's body are: ~a" (hash-ref doc 'body)))
 

@@ -1,7 +1,10 @@
 #lang racket/base
 
-(define precedent "Hello world!")
+(provide render)
+
+(define (render) 
+  "Hello world!")
 
 (module+ main
-  (displayln precedent))
+  (displayln (render)))
 

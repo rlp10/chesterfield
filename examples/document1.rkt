@@ -5,3 +5,6 @@
 (define document
   (hash 'body "Hello world!"))
 
+(module+ main
+  (displayln document))
+
