@@ -79,6 +79,7 @@ Fourth, "reports" render based upon multiple documents.
 - Contact information
 - Subject/predicate/object metadata module
 - Undertakings management
+- Extract filepath when loading hash from document
 
 ### Rendering
 
